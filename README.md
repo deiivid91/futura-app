@@ -1,2 +1,2 @@
 # futura-app
-Aplicación de la asignatura de Aplicaciones Móviles (UC3M)
+Repo de ejemplo para verificar integración Android Studio con GitHub 
