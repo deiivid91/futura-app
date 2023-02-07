@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">futura-app</string>
+    <string name="texto_externo">¡Hola Mundo!</string>
 </resources>
